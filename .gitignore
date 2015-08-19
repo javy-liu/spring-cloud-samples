@@ -11,4 +11,5 @@ bin/
 _site/
 .idea/
 *.iml
+build/
 .factorypath
