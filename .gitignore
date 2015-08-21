@@ -9,7 +9,11 @@
 target/
 bin/
 _site/
+.factorypath
+
+.gradle/
+
+# IDEA
 .idea/
 *.iml
 build/
-.factorypath

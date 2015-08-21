@@ -20,4 +20,4 @@ spring:
     config:
       server:
         git:
-          uri: file://${HOME}/config-repo
+          uri: https://github.com/oyach/config-repo

@@ -1,0 +1,6 @@
+include ":spring-cloud-config-server", 
+        ":spring-cloud-config-client",
+        ":spring-cloud-eureka-server",
+        ":spring-cloud-eureka-client",
+        ":spring-cloud-sso-server",
+        ":spring-cloud-sso-client"
